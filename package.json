@@ -15,7 +15,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "create-jest-runner": "^0.1.1",
+    "create-jest-runner": "^0.4.0",
     "strip-ansi": "^4.0.0"
   },
   "devDependencies": {
