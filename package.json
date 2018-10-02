@@ -16,13 +16,13 @@
   },
   "dependencies": {
     "create-jest-runner": "^0.1.1",
-    "flow-bin": "^0.63.1",
     "strip-ansi": "^4.0.0"
   },
   "devDependencies": {
     "eslint": "^4.15.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
+    "flow-bin": "^0.63.1",
     "jest": "^22.0.6"
   }
 }
